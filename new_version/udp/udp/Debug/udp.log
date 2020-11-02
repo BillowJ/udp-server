@@ -1,0 +1,7 @@
+﻿  udp.cpp
+  echo_s.cc
+d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc(3): warning C4627: “#include "echo_s.h"”: 在查找预编译头使用时跳过
+  d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc(3): note: 将指令添加到“stdafx.h”或重新生成预编译头
+d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc(286): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...

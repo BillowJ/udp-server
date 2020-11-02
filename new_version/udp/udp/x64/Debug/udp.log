@@ -1,0 +1,13 @@
+﻿  echo_s.cc
+d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.h(36): warning C4005: “FD_SETSIZE”: 宏重定义
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(133): note: 参见“FD_SETSIZE”的前一个定义
+d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.h(37): warning C4005: “BUFSIZ”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(18): note: 参见“BUFSIZ”的前一个定义
+d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc(199): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc(217): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc(217): note: consider using '%lld' in the format string
+  d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc(217): note: consider using '%Id' in the format string
+  d:\users\administrator\documents\visual studio 2015\projects\udp\udp\echo_s.cc(217): note: consider using '%I64d' in the format string
+  udp.vcxproj -> D:\Users\Administrator\Documents\Visual Studio 2015\Projects\udp\x64\Debug\udp.exe
+  udp.vcxproj -> D:\Users\Administrator\Documents\Visual Studio 2015\Projects\udp\x64\Debug\udp.pdb (Full PDB)
